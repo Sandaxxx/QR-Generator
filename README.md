@@ -4,7 +4,7 @@
 
 
 
-![background]([https://cdn.discordapp.com/attachments/1044683106264809563/1062479197437706363/image.png](https://cdn.discordapp.com/attachments/1146354940491599933/1150862105067659375/image.png))
+![background]([https://cdn.discordapp.com/attachments/1044683106264809563/1062479197437706363/image.png](e))
 
 # __INSTALLATION__
 >## ```pip install qrcode```
